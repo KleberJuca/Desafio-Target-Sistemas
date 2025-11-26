@@ -37,7 +37,7 @@ Certifique-se de ter instalado:
 ### 1. Clone ou baixe o repositório:
 
 ```bash
-git clone https://github.com/KleberJuca/desafio-target-sistemas.git
+[git clone https://github.com/KleberJuca/desafio-target-sistemas.git](https://github.com/KleberJuca/Desafio-Target-Sistemas.git)
 cd desafio-target-sistemas
 ```
 
